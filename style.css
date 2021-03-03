@@ -63,13 +63,13 @@ a{
 
 .shoes{
     
-    width: 70%;
-    height: 600px;
     position: absolute;
     top: 30%;
     left: 50%;
     transform: translate(-50%,-50%);
+    margin-top: 10%;
 }
+
 
 .text{
     text-align: center;
@@ -87,13 +87,13 @@ a{
     color: green;
 }
     
-.img1{
+/* .img1{
     background-image: url(img/01.png);
     background-repeat: no-repeat;
     background-size: cover;
- }  
+}   */
 
-.img2{
+/* .img2{
     background-image: url(img/02.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -105,4 +105,4 @@ a{
     background-size: cover;
     margin-top: 65px;
 }  
-    
+     */
